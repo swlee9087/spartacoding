@@ -10,7 +10,7 @@
   + class tags
   + creating pages on GH for each repo
 
-2. ChatGPT로 10분만에 웹사이트 만들기. [RESULT](https://swlee9087.github.io/spartacoding/garagesale) // [TUTORIAL:KR] (https://teamsparta.notion.site/chatGPT-10-51e68f4c499941bfa246c477011a3e64)
+2. ChatGPT로 10분만에 웹사이트 만들기. [RESULT](https://swlee9087.github.io/spartacoding/garagesale) // [TUTORIAL:KR](https://teamsparta.notion.site/chatGPT-10-51e68f4c499941bfa246c477011a3e64)
 - Type: html, css, ChatGPT
 - Takeaways: 
   + vscode : shift alt F for auto correcting indentations
